@@ -1,0 +1,6 @@
+@InstinctSports_HostAddress = http://localhost:5007
+
+GET {{InstinctSports_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
